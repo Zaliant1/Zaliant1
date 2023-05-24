@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaliant1&label=Profile%20views&color=0e75b6&style=flat" alt="zaliant1" /> </p>
 
 - 🔭 I’m currently working on....
--  [a Hollow Knight website to showcase mods](https://github.com/Zaliant1/HK-Modding-Site)
--  [a ticketing system for my team to use and track issues](https://github.com/Zaliant1/PaleCourtTicketSystem)
+-  [a project for issue management with kanban implementation with discord integration](https://github.com/orgs/Issue-Tracking/repositories)
 
 
 <h3 align="left">Languages and Tools:</h3>
