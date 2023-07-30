@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [ModForge](https://github.com/ModForge), an issue tracker geared towards game mods  
   
 
-- 🌱 I’m currently refining my skills with ModForge's tech stack with  React, Mongo, Python, and FastAPI  
+- 🌱 Refining my skills with ModForge's tech stack with  React, Mongo, Python, and FastAPI  
   
 
 - ⚡ Also starting to dabble in Electron as well as C# with Unity  
