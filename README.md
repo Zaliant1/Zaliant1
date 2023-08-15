@@ -43,11 +43,3 @@
 </div>  
 </br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Zaliant1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
- 
-
-  
-
-
-## <div align="center">Listen with me </div>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=3152m53no35ongcjz6hwzlk3ndby&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" /></div>
